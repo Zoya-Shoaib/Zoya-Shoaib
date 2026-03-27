@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building practical web projects and refining my professional portfolio.<br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects or frontend UI enhancements.<br><br>🤝 I’m looking for help with mastering backend logic and integrating AI into web applications.<br><br>🌱 I’m currently learning Backend Development and the fundamentals of Artificial Intelligence.<br><br>💬 Ask me about Frontend basics, social media content strategy, or transitioning into Software Engineering.<br><br>⚡ Fun fact I enjoy turning complex ideas into simple, clean landing pages.
-
+🔭 Passionate Software Engineering student and lifelong learner. Currently transitioning from frontend basics into backend systems and AI, while documenting my journey through open-source projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoya-shoaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zoyashoaib06@gmail.com) 
